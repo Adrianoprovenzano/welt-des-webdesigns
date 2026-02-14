@@ -3,3 +3,4 @@ function CSSIntro(){
         <h1>CSS Intro</h1>
     )
 }
+export default CSSIntro;
